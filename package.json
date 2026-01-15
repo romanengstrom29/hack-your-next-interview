@@ -1,6 +1,6 @@
 {
   "name": "hack-your-next-interview",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "Interview prep for fullstack and frontend JavaScript roles: the process and red flags, useful methods, and worked challenges (fibonacci, fizzbuzz, palindromes, anagrams, recursion, HackerRank).",
   "main": "src/index.js",
   "scripts": {
